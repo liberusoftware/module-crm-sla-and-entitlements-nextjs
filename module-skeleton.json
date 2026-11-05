@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sla-and-entitlements-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-sla-and-entitlements",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-sla-and-entitlements-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/sla-and-entitlements.md",
+  "presentationPlan": "projects/crm/nextjs/sla-and-entitlements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
